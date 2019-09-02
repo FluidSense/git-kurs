@@ -4,5 +4,5 @@
 Hei og velkommen til nybegynnerkurs i Git
 
 For mer tips, hjelp og annet, sjekk ut:
-https://s.ntnu.no/gitterms
+https://s.ntnu.no/gitterms  
 Slack-kanalen #git-kurs på Online sin Slack

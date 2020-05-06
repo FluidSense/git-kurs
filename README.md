@@ -1,4 +1,4 @@
-# Git-kurs 2019
+# Git-kurs 2020
 **Authors**: Johannes Kvamme, Aslak Hollund
 
 Hei og velkommen til nybegynnerkurs i Git

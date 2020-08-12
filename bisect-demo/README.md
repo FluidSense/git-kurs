@@ -1,6 +1,6 @@
 # Try-it-yourself!
 
-- git checkout try-it-yourself/bisect
+- `git checkout try-it-yourself/bisect`
 - With python installed:
     - Try to run `python app.py`.
     - Notice the unwanted output.
